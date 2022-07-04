@@ -11,9 +11,9 @@ h1 {
     color: orange;
 }
 
-section {
+.flexible-container {
     display: flex;
-    margin: 120px;
+    margin: 50px;
 }
 
 .half-width {
